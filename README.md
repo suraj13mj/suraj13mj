@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-## Welcome to my Github Repo.. - 🖐
-# I am a final year Computer Science Student currently interning at Spektra Systems.
+### Welcome to my Github Repo.. - 🖐
+#### I am a final year Computer Science Student currently interning at Spektra Systems.
 
 - 🌱 I’m currently learning to building applications with Angular and ASP.Net
 
