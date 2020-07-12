@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+##Welcome to my Github Repo
+
+- 🌱 I’m currently learning to building applications with Angular and ASP.Net
+
 <!--
 **suraj13mj/suraj13mj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
